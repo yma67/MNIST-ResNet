@@ -4,11 +4,7 @@ Classify a modified version of MNIST using ResNet
 Please Read 'writeup report.pdf'
 
 ## Instructions
-1. Download dataset
-```
-    kaggle competitions download -c comp-551-w2019-project-3-modified-mnist
-```
-to current directory, such that
+1. Download dataset to current directory, such that
 ```
 ---- Parent Directory
    |
