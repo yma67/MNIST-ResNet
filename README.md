@@ -1,8 +1,6 @@
 # MNIST-ResNet
 Classify a modified version of MNIST using ResNet
 
-Please Read 'writeup report.pdf'
-
 ## Instructions
 1. Download dataset to current directory, such that
 ```
